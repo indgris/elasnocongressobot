@@ -1,6 +1,6 @@
 # Elas no Congresso Bot
 
-O **Elas no Congresso Bot** é um robô de coleta automática de dados que integra o projeto [**Elas no Congresso**](https://azmina.com.br/elasnocongresso/) da [Revista AzMina](https://azmina.com.br/). Ele foi desenvolvido para monitorar e organizar informações legislativas relevantes aos direitos das meninas, mulheres e comunidades LGBTQIAP+, e à igualdade de gênero no Brasil.
+O **Elas no Congresso Bot** é um robô de coleta automática de dados que integra o projeto [**Elas no Congresso**](https://elasnocongresso.com.br) da [Revista AzMina](https://azmina.com.br/). Ele foi desenvolvido para monitorar e organizar informações legislativas relevantes aos direitos das meninas, mulheres e comunidades LGBTQIAP+, e à igualdade de gênero no Brasil.
 
 Este robô é responsável por alimentar os dados que servem como base para a [**QuitérIA-IA-Feminista Elas no Congresso**](https://github.com/institutoazmina/ia-feminista-congresso), uma solução de inteligência artificial voltada para a classificação e análise automática de proposições legislativas com foco em gênero, feminismo e direitos das mulheres.
 
